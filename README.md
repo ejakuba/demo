@@ -5,4 +5,4 @@ new line
 
 change after .git was removed
 
-I hope this is not a trouble
+This is bound to case a trouble
